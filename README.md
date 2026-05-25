@@ -1,4 +1,4 @@
-# 🔒 P2P Chat System
+# P2P Chat System
 
 Hệ thống chat ngang hàng (Peer-to-Peer) cho phép nhiều người dùng trao đổi tin nhắn trực tiếp qua mạng với mã hóa End-to-End.
 
@@ -13,7 +13,7 @@ Hệ thống chat ngang hàng (Peer-to-Peer) cho phép nhiều người dùng tr
 - **Lịch sử chat** – Lưu trữ trên MongoDB Atlas
 - **GUI Desktop** – Giao diện PyQt6 dark theme đẹp mắt
 
-## 🚀 Cài đặt
+## Cài đặt
 
 ```bash
 cd ChatP2Ppython
@@ -35,7 +35,7 @@ copy .env.example .env
 # Sửa MONGODB_URI trong .env
 ```
 
-## 🏃 Chạy
+## Chạy
 
 ```bash
 cd ChatP2Ppython
@@ -54,13 +54,13 @@ python run_peer.py
 #Thay đổi Cổng peer cho các peer khác nhau (5001++)
 
 
-## 🧪 Test
+## Test
 
 ```bash
 python -m pytest tests/ -v
 ```
 
-## 📁 Cấu trúc
+##  Cấu trúc
 
 ```
 ├── bootstrap_server/   # Bootstrap/Tracker Server
