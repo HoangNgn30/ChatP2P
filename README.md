@@ -75,7 +75,7 @@ python -m pytest tests/ -v
 └── run_peer.py         # Entry: chạy peer + GUI
 ```
 
-## 🔧 Công nghệ
+##  Công nghệ
 
 - **Python 3.10+** + asyncio
 - **PyQt6** – Desktop GUI
