@@ -11,7 +11,7 @@ Hệ thống chat ngang hàng (Peer-to-Peer) cho phép nhiều người dùng tr
 - **Online/Offline** – Hiển thị trạng thái realtime
 - **Store-and-forward** – Lưu tin nhắn khi peer offline, gửi lại khi online
 - **Lịch sử chat** – Lưu trữ trên MongoDB Atlas
-- **GUI Desktop** – Giao diện PyQt6 dark theme đẹp mắt
+- **GUI Desktop** – Giao diện PyQt6 
 
 ## Cài đặt
 
